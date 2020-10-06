@@ -1046,6 +1046,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="U$1" gate="G$1" pin="LED-"/>
 <wire x1="20.32" y1="15.24" x2="20.32" y2="12.7" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="-15.24" x2="27.94" y2="15.24" width="0.1524" layer="91"/>
+<junction x="-50.8" y="78.74"/>
+<junction x="-50.8" y="63.5"/>
 </segment>
 </net>
 </nets>
