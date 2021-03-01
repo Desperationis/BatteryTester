@@ -19,7 +19,7 @@ const int readingPin = A0;
 
 // Battery tester for a VEX battery. 5V is the absolute lowest voltage it
 // can go, while 8.3 V is the highest it can go unloaded.
-BatteryTester VEXtester(5.0f, 8.3f);
+BatteryTester VEXtester(5.0f, 8.0f);
 
 void setup() {
   lcd.begin(16, 2);
